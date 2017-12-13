@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: zhang168feng@gmail.com
 description: ""
 keyword: ""
-url: "http://momo1988.github.io"              # your host, for absolute URL
-baseurl: "/BabyandI.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://momo1988.github.io/BabyandI.github.io""              # your host, for absolute URL
+baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
